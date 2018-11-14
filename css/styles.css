@@ -1,0 +1,29 @@
+#cheesecake{
+  width: 250px;
+}
+
+#search{
+  display: flex;
+}
+
+body{
+  padding: 10px;
+}
+
+.bar{
+  background-color: lightgrey;
+  width: 10px;
+  padding: 0;
+}
+
+.in-one-line{
+  display: flex;
+}
+
+label{
+  text-align: right;
+}
+
+#nameOfComment{
+  color: slategrey;
+}
